@@ -1,0 +1,1 @@
+/etc/nginx/conf.d IN_CREATE,IN_DELETE,IN_MOVED_TO,IN_MOVED_FROM nginx -s reload
