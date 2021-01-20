@@ -1,3 +1,5 @@
+> This repository is now [hosted on Gitlab](https://gitlab.com/romaricpascal/docker-nginx-autoreload). Please head there if you wish to contribute. Thanks 🙂
+
 nginx-autoreload
 ================
 
